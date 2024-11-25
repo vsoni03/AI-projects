@@ -1,5 +1,8 @@
 # AI-projects
 ## First project: 
 DQN for Lunar Landing 
+
+Add video of performance here 
 ## Second project:
-Convulation Neural Network for Pac Man
+Convolution Neural Network for Pac Man
+Add video of performance here 
