@@ -13,5 +13,5 @@ Add video of performance here
 ## Fourth Project:
 Using train a AWS deepracer model using PPO and soft critic
 ## Fifth Project:
-Fine-tune LLama 2 Model for Medical Diagnosis:
+Fine-tune LLama 2 Model Chatbot for Medical Diagnosis:
 Add video of performance here 
